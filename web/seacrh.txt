@@ -1,0 +1,7 @@
+<form action="user_list.php" method="get">
+								<input type="text" placeholder="Search..." name="cari"> 
+								<a href="">
+									<i class="fa fa-search" value="cari"></i>
+								</a> 
+							</form>
+							<br>
